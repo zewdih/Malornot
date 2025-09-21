@@ -60,6 +60,4 @@ User Input → Analyzer → Decision Engine → Protection Tools → LLM
 - **Zewdi Herring** – Agent flow design, orchestration, and demo build  
 - Wendi Yin – AI integrations  
 - Pulkit Garg – Development & testing  
-- [Add teammates here if needed]  
-
 ---
